@@ -15,3 +15,15 @@ main {
     box-shadow: 3px 3px 5px rgb(0, 0, 0, 0.473);
 }
 
+h1 {
+    color:  rgb(66, 11, 117);
+    
+}
+
+h2{
+    color: rgb(66, 11, 117);
+}
+
+img.lado {
+    float: right;
+}
