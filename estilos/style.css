@@ -17,11 +17,12 @@ main {
 
 h1 {
     color:  rgb(66, 11, 117);
-    
+    font-size: 40px;
 }
 
 h2{
     color: rgb(66, 11, 117);
+    font-size: 25px;
 }
 
 img.lado {
