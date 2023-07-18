@@ -16,8 +16,6 @@ if(self.fetch) {
         console.log(json);
     })();
 
-
-
 } else {
     console.log('não tem suporte');
 }
